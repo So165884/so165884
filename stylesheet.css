@@ -89,10 +89,10 @@
   
   
   .header-left {
-     width: 300px;
+     width: 400px;
     margin-top: 20px;
     float: left;
-    color: white
+    color: white;
   }
   
   .header-right {
